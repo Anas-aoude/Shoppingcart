@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Laferrari",
+    "price": 400000.99,
+    "imgUrl": "/imgs/Laferrari.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes",
+    "price": 125000,
+    "imgUrl": "/imgs/Mercedes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BMW",
+    "price": 1.05,
+    "imgUrl": "/imgs/BMW.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Audi",
+    "price": 850000,
+    "imgUrl": "/imgs/Audi.jpg"
+  }
+]
